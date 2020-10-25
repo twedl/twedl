@@ -1,10 +1,10 @@
 ### Hi 👋
 
-- 🔭 I’m currently working on things
-- 🌱 I’m currently learning stuffs
+- 🔭 I’m currently working on research
+- 🌱 I’m currently learning *the basics* of everything
 - 📫 How to reach me: jesse.tweedle@canada.ca
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: *they* is a perfectly normal third-person singular pronoun in English
+- ⚡ Fun fact: sorry I don't have any facts that are fun atm
 
 <!--
 **tweed1e/tweed1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
