@@ -1,10 +1,10 @@
 ### Hi 👋
 
 - 🔭 I’m currently working on research
-- 🌱 I’m currently learning *the basics* of everything
+- 🌱 I’m currently learning *the basics*
 - 📫 How to reach me: jesse.tweedle@canada.ca
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: sorry I don't have any facts that are fun atm
+- ⚡ Fun fact: *what you do is who you are*
 
 <!--
 **tweed1e/tweed1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
