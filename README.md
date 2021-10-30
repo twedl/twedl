@@ -1,8 +1,6 @@
-### Hi 👋
+### 👋
 
-- 🔭 I’m currently working on research
-- 🌱 I’m currently learning *the basics*
-- 📫 How to reach me: [twitter.com/tweed1e](twitter.com/tweed1e)
+- 📫 How to reach me: [twitter.com/twedl_](twitter.com/twedl_)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: *what you do is who you are*
 
