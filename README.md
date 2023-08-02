@@ -1,6 +1,5 @@
 ### 👋
 
-- 📫 How to reach me: [twitter.com/twedl_](twitter.com/twedl_)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: *what you do is who you are*
 
